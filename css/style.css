@@ -3,6 +3,7 @@ white*{
 	margin: 0;
 	font-family: 'Roboto Mono', monospace;
 	box-sizing: border-box;
+	background-color: black;
 }
 .hero{
 	height: 100vh;
