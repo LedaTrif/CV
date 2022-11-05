@@ -10,7 +10,7 @@
 
 body{
 	padding: 0;
-	margin: auto;
+	margin: 0;
 	font-family: 'Roboto Mono', Fallback, sans-serif;;
 	box-sizing: border-box;
 	background-color: black;
