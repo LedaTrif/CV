@@ -9,6 +9,9 @@
 }
 
 body{
+	display: flex;
+	display: table-cell; 
+        display: -ms-flexbox; 
 	padding: 0;
 	margin: 0;
 	font-family: 'Roboto Mono', Fallback, sans-serif;;
@@ -75,7 +78,7 @@ nav ul li a:hover{
 	position: absolute;
 	top: 50%;
 	left:8%;
-	transform: translateY(-50%);
+	transform: translateY(-50%, -50%);
 }
 h1{
 	color: white;
