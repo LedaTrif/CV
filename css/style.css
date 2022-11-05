@@ -9,17 +9,12 @@
 }
 
 body{
-	display: flex;
-	display: table-cell; 
-        display: -ms-flexbox; 
 	padding: 0;
 	margin: 0;
-	font-family: 'Roboto Mono', Fallback, sans-serif;;
+	font-family: 'Roboto Mono', monospace;
 	box-sizing: border-box;
 	background-color: black;
-
 }
-
 .hero{
 	height: 100vh;
 	width: 100%;
@@ -78,7 +73,7 @@ nav ul li a:hover{
 	position: absolute;
 	top: 50%;
 	left:8%;
-	transform: translateY(-50%, -50%);
+	transform: translateY(-50%);
 }
 h1{
 	color: white;
@@ -99,9 +94,7 @@ h4{
 
 .about{
 	width: 100%;
-	padding: 10px 0px;
-	margin-left: auto;
-        margin-right: auto;
+	padding: 100px 0px;
 	background-color: #191919;
 }
 .about img{
