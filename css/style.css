@@ -176,6 +176,9 @@ button:hover{
 	position: relative;
 	overflow: hidden;
 	text-align: center;
+	display: flex;       // others
+        display: table-cell; // ie9
+        display: -ms-flexbox; //ie10
 }
 .card i{
 	font-size: 50px;
