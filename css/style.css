@@ -3,6 +3,7 @@
 	margin: 0;
 	font-family: 'Josefin Sans', sans-serif;
 	box-sizing: border-box;
+	background-color: black;
 }
 .hero{
 	height: 100vh;
