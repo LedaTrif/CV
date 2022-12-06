@@ -59,6 +59,7 @@ nav ul li a:hover{
 }
 .content{
 	position: absolute;
+	background: transparent;
 	top: 50%;
 	left:8%;
 	transform: translateY(-50%);
