@@ -35,7 +35,7 @@ nav ul li{
 	padding: 10px  25px;
 }
 nav ul li a{
-	color: black;
+	color: white;
 	text-decoration: none;
 	font-weight: bold;
 	text-transform: capitalize;
@@ -263,7 +263,7 @@ footer p:nth-child(2){
 	background:  #F8D210;
 	border-radius: 50%;
 	margin: 22px 10px;
-	color: white;
+	color: black;
 	text-decoration: none;
 	font-size: 20px;
 }
