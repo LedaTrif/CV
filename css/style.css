@@ -59,7 +59,6 @@ nav ul li a:hover{
 }
 .content{
 	position: absolute;
-	background: transparent;
 	top: 50%;
 	left:8%;
 	transform: translateY(-50%);
@@ -265,7 +264,7 @@ footer p:nth-child(2){
 	background:  #F8D210;
 	border-radius: 50%;
 	margin: 22px 10px;
-	color: white;
+	color: black;
 	text-decoration: none;
 	font-size: 20px;
 }
